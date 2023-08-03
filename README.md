@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente soy pasante en el Ministerio de Relaciones Exteriores, donde realizo informes y tareas de<br>seguimiento de la ejecución del presupuesto.<br>Realice cursos sobre análisis de datos con Power Bi y de manera<br>autodidacta aprendí a manejar los lenguajes de programación<br>Python y SQL, realice proyectos que están disponibles en mi<br>repositorio donde demuestro mi dominio sobre estas<br>herramientas.<br>
+Actualmente soy pasante en el Ministerio de Relaciones Exteriores, donde realizo informes y tareas de<br>seguimiento de la ejecución del presupuesto.<br>Realice cursos sobre análisis de datos con Power Bi y de manera<br>autodidacta aprendí a manejar los lenguajes de programación Python y SQL, realice proyectos que están disponibles en mi repositorio donde demuestro mi dominio sobre estas herramientas.<br>
 
 
 ## 🌐 Socials:
